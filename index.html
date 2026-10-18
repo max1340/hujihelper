@@ -643,7 +643,7 @@ body, header, .card, .today-item, .ev, .stat, .blk, details.sec, details.sec>sum
 }
 
 @media (max-width:680px){
-  header{position:sticky;top:0;z-index:50;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);background:var(--header-bg)}
+  header{position:sticky;top:0;z-index:50;backdrop-filter:none;-webkit-backdrop-filter:none;background:var(--card)}
   .bar{padding:10px 12px;display:flex;justify-content:space-between;align-items:center;width:100%;flex-wrap:nowrap;gap:6px}
   .brand{font-size:.96rem;gap:8px;min-width:0;flex-shrink:0}
   .brand .logo-img{width:24px;height:24px;border-radius:6px;flex-shrink:0}
@@ -665,7 +665,7 @@ body, header, .card, .today-item, .ev, .stat, .blk, details.sec, details.sec>sum
   .q-link .q-sub{font-size:.68rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block}
   .eligibility-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
 
-  /* Fixed Bottom App Navigation (Unified with Подсчет хавчика & Финансы) */
+  /* Fixed Bottom App Navigation */
   header nav{
     position:fixed;
     bottom:0;
@@ -674,42 +674,44 @@ body, header, .card, .today-item, .ev, .stat, .blk, details.sec, details.sec>sum
     top:auto;
     z-index:100;
     height:calc(58px + env(safe-area-inset-bottom, 0px));
-    padding:4px 8px calc(4px + env(safe-area-inset-bottom, 0px));
-    background:var(--card);
+    padding:3px 6px calc(env(safe-area-inset-bottom, 0px));
+    background:var(--header-bg);
+    backdrop-filter:blur(20px);
+    -webkit-backdrop-filter:blur(20px);
     border:none;
     border-top:1px solid var(--line);
     border-radius:0;
     display:grid;
     grid-template-columns:repeat(4,minmax(0,1fr));
-    gap:4px;
+    gap:2px;
+    box-shadow:0 -4px 20px rgba(0,0,0,.08);
   }
   header nav button{
     display:flex;
     flex-direction:column;
     align-items:center;
     justify-content:center;
-    gap:3px;
-    padding:4px 2px;
+    gap:2px;
+    padding:3px 2px;
     border:none;
     background:transparent;
     color:var(--muted);
     border-radius:8px;
-    font-size:.7rem;
-    font-weight:600;
+    font-size:.72rem;
     height:100%;
-    transition:color .15s,background .15s,transform .1s;
+    transition:color .15s,background .15s;
     width:100%;
   }
   header nav button.active{
     color:var(--text);
-    background:var(--bg);
+    background:var(--card2);
     font-weight:700;
     box-shadow:none;
   }
-  header nav button .nav-ico{font-size:1.18rem;line-height:1}
-  header nav button .nav-txt{font-size:.7rem;line-height:1.1}
+  header nav button .nav-ico{font-size:1.22rem;line-height:1}
+  header nav button .nav-txt{font-size:.72rem;line-height:1.1}
 
-  main{padding:12px 12px calc(88px + env(safe-area-inset-bottom, 0px));max-width:100%;overflow-x:hidden}
+  main{padding:14px 12px calc(95px + env(safe-area-inset-bottom, 0px));max-width:100%;overflow-x:hidden}
 
   /* Hero & Stats */
   .hero{flex-direction:column;align-items:stretch;gap:12px;margin-bottom:14px}
