@@ -1,0 +1,568 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2026042004//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:49897@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183531Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261013T090000Z
+DTEND:20261013T110000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49955@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183518Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261014T050000Z
+DTEND:20261014T070000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49860@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום א' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T182420Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261018T070000Z
+DTEND:20261018T090000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:34900@moodle.huji.ac.il/2026-27
+SUMMARY:נפתח ב תרגיל 2
+DESCRIPTION:הערות ורמזים:\n\nשאלה 2) בשאלה 2 ויתכן שגם בשאלות נוספות בתרגיל
+	 עליכם להשתמש בפונקציה SPLIT על מחרוזות.\n\nראו הסבר על ()s.split בקובץ 4-E
+	x2_.pdf [1] שהועלה לתיקיה של Lecture 2 [2] במודל.\n\nשאלה 6) בשאלה 6 מומלץ 
+	להעזר בשיטות על מחרוזות. קראו בעיון את הקובץ CS23-strings-input-2.1.pdf [3]
+	  מהתיקיה  Lecture 2 [2] .\n\n\nLinks:\n------\n[1] https://moodle.huji.ac.
+	il/2026-27/pluginfile.php/293806/mod_folder/content/0/4-Ex2_.pdf?forcedownl
+	oad=1\n[2] https://moodle.huji.ac.il/2026-27/mod/folder/view.php?id=103260\
+	n[3] https://moodle.huji.ac.il/2026-27/pluginfile.php/293806/mod_folder/con
+	tent/0/CS23-strings-input-2.1.pdf?forcedownload=1\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261017T233258Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261018T092000Z
+DTEND:20261018T092000Z
+CATEGORIES:76639_1-מבוא למדעי המחשב עבור הנדסת חשמל ופיסיקה יישומית
+END:VEVENT
+BEGIN:VEVENT
+UID:34851@moodle.huji.ac.il/2026-27
+SUMMARY:נפתח ב Quiz 2
+DESCRIPTION:Quiz for Lecture 2 - בקוויז זה יש לכם אפשרות של עד 2 ניסיונות ל
+	הגשת הבוחן. יש קנס על מענה שגוי.\n\nרק בשאלה 1 אין הגבלה על מספר נסיונות המ
+	ענה.\n\nציון הקוויז הוא חלק מציון מגן עבור ציון עובר (60 ומעלה) בקוויז.\n\n
+	הערה 1:  ב Quiz 2 שאלה 5 - מומלץ  לקרוא על הערך concierge ( האופרטור _ ) בת
+	ת פרק 1.2\,\n\nהערה 2:  שימו לב: כאשר אתם עונים על הקוויז יש להעביר את המוד
+	ל למצב תצוגה באנגלית!\nאחרת שורות קוד כמו\n_ = a\nמוצגות הפוך\na = _\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261017T233930Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261018T113500Z
+DTEND:20261018T113500Z
+CATEGORIES:76639_1-מבוא למדעי המחשב עבור הנדסת חשמל ופיסיקה יישומית
+END:VEVENT
+BEGIN:VEVENT
+UID:49909@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ב' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183254Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261019T070000Z
+DTEND:20261019T090000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49898@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183543Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261020T090000Z
+DTEND:20261020T110000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:30811@moodle.huji.ac.il/2026-27
+SUMMARY:מבדק 1 על שבוע 1 closes
+DESCRIPTION:המבדק על החומר של שבוע 1  - פרק 1\, עמודים 1-1 עד 1-5 של חומר ה
+	קורס.\nבכל שאלה\, צריך לציין את כל האפשריות הנכונות.\n \nשמו לב: 0 (סקלר) ש
+	ונה מ-0 או 0 (וקטור).\n\nNote: If you have difficulty viewing the quiz\, tr
+	y a different browser.\n\nבהצלחה! 
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261012T114051Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261020T205900Z
+DTEND:20261020T205900Z
+CATEGORIES:80114-מתמטיקה שימושית (1)
+END:VEVENT
+BEGIN:VEVENT
+UID:49956@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183518Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261021T050000Z
+DTEND:20261021T070000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20300@moodle.huji.ac.il/2026-27
+SUMMARY:יש להגיש את 'תרגיל בית 1'
+DESCRIPTION:נתקעתם בשאלה ולא הצלחתם להתקדם? קבוצות הסדנה פתוחות בפניכם\; המ
+	דריכים שם בשביל לעזור לכם.\n\nלשאלות מנהלתיות לגבי התרגילים (טעות בתרגיל או
+	 בפתרון\, שפה או ניסוח לא ברור\, איחור בהגשה של לא יותר מכמה שעות מסיבות מו
+	צדקות מאוד) - יש לפנות לבני בכתובת benny.radon@mail.huji.ac.il.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261009T053112Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261022T110000Z
+DTEND:20261022T110000Z
+CATEGORIES:83312-מכניקה ויחסות פרטית לתלמידי הנדסה
+END:VEVENT
+BEGIN:VEVENT
+UID:34820@moodle.huji.ac.il/2026-27
+SUMMARY:תאריך הגשה תרגיל 1
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261009T094714Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261022T205800Z
+DTEND:20261022T205800Z
+CATEGORIES:76639_1-מבוא למדעי המחשב עבור הנדסת חשמל ופיסיקה יישומית
+END:VEVENT
+BEGIN:VEVENT
+UID:34822@moodle.huji.ac.il/2026-27
+SUMMARY:תאריך הגשה Quiz 1
+DESCRIPTION:Quiz for Lecture 1 - בקוויז זה יש לכם אפשרות של עד 2 ניסיונות ל
+	הגשת הבוחן. ציון הקוויז הוא חלק מציון מגן.\n\nיש להעביר את המודל לשפה האנגל
+	ית על מנת לראות את הקוויז בצורה מסודרת.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261009T094946Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261022T205800Z
+DTEND:20261022T205800Z
+CATEGORIES:76639_1-מבוא למדעי המחשב עבור הנדסת חשמל ופיסיקה יישומית
+END:VEVENT
+BEGIN:VEVENT
+UID:49861@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום א' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T182420Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261025T080000Z
+DTEND:20261025T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:30850@moodle.huji.ac.il/2026-27
+SUMMARY:הגשה בוחן 1 על פרק 0 is due
+DESCRIPTION:כדי לעשות את בוחן 1\, צריך להכנס קודם ל"בוחן 1 על פרק 0" ולקבל 
+	דף שאלות. דף השאלות הזה פרטי - כל תלמיד מקבל משהו קצת שונה . אתם צריכים לכת
+	וב את הפתרונות המלאים על דף (לא רק התוצאות) ואז לסרוק את זה לקובץ PDF ולעלו
+	ת למערכת כאן.  מותר גם לכתוב ביד על טבלט ואז לשמור כקובץ PDF ולעלות\, אבל א
+	סור "להדפיס" פתרון דרך  WORD\, TEX\, LYX או כדומה\, חוץ מבמקרים שיש אישור מ
+	טעם האוניברסיטה להשתמש במחשב במבחנים. \n\nצריך ללחוץ על הכפתור "להגיש" אחרי
+	 שבדקתם שמה שעליתם נראת בסדר.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261012T113612Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261025T215900Z
+DTEND:20261025T215900Z
+CATEGORIES:80114-מתמטיקה שימושית (1)
+END:VEVENT
+BEGIN:VEVENT
+UID:30862@moodle.huji.ac.il/2026-27
+SUMMARY:בוחן 1 על פרק 0 closes
+DESCRIPTION:צריך לכתוב את הפתרונות המלאים כולל הסברים ובלי שימוש במחשבון.\n
+	Please make sure that your browser can view files like this one\n\nhttps://
+	moodle.huji.ac.il/2026-27/pluginfile.php/264355/mod_quiz/intro/tests.jpg [1
+	]\n\n\nLinks:\n------\n[1] https://moodle.huji.ac.il/2026-27/pluginfile.php
+	/264355/mod_quiz/intro/tests.jpg\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261012T113332Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261025T215900Z
+DTEND:20261025T215900Z
+CATEGORIES:80114-מתמטיקה שימושית (1)
+END:VEVENT
+BEGIN:VEVENT
+UID:49910@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ב' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183304Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261026T080000Z
+DTEND:20261026T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49899@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183558Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261027T100000Z
+DTEND:20261027T120000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49957@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183518Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261028T060000Z
+DTEND:20261028T080000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:34852@moodle.huji.ac.il/2026-27
+SUMMARY:תאריך הגשה Quiz 2
+DESCRIPTION:Quiz for Lecture 2 - בקוויז זה יש לכם אפשרות של עד 2 ניסיונות ל
+	הגשת הבוחן. יש קנס על מענה שגוי.\n\nרק בשאלה 1 אין הגבלה על מספר נסיונות המ
+	ענה.\n\nציון הקוויז הוא חלק מציון מגן עבור ציון עובר (60 ומעלה) בקוויז.\n\n
+	הערה 1:  ב Quiz 2 שאלה 5 - מומלץ  לקרוא על הערך concierge ( האופרטור _ ) בת
+	ת פרק 1.2\,\n\nהערה 2:  שימו לב: כאשר אתם עונים על הקוויז יש להעביר את המוד
+	ל למצב תצוגה באנגלית!\nאחרת שורות קוד כמו\n_ = a\nמוצגות הפוך\na = _\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261017T233930Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261029T215800Z
+DTEND:20261029T215800Z
+CATEGORIES:76639_1-מבוא למדעי המחשב עבור הנדסת חשמל ופיסיקה יישומית
+END:VEVENT
+BEGIN:VEVENT
+UID:34901@moodle.huji.ac.il/2026-27
+SUMMARY:תאריך הגשה תרגיל 2
+DESCRIPTION:הערות ורמזים:\n\nשאלה 2) בשאלה 2 ויתכן שגם בשאלות נוספות בתרגיל
+	 עליכם להשתמש בפונקציה SPLIT על מחרוזות.\n\nראו הסבר על ()s.split בקובץ 4-E
+	x2_.pdf [1] שהועלה לתיקיה של Lecture 2 [2] במודל.\n\nשאלה 6) בשאלה 6 מומלץ 
+	להעזר בשיטות על מחרוזות. קראו בעיון את הקובץ CS23-strings-input-2.1.pdf [3]
+	  מהתיקיה  Lecture 2 [2] .\n\n\nLinks:\n------\n[1] https://moodle.huji.ac.
+	il/2026-27/pluginfile.php/293806/mod_folder/content/0/4-Ex2_.pdf?forcedownl
+	oad=1\n[2] https://moodle.huji.ac.il/2026-27/mod/folder/view.php?id=103260\
+	n[3] https://moodle.huji.ac.il/2026-27/pluginfile.php/293806/mod_folder/con
+	tent/0/CS23-strings-input-2.1.pdf?forcedownload=1\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261017T233258Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261029T215800Z
+DTEND:20261029T215800Z
+CATEGORIES:76639_1-מבוא למדעי המחשב עבור הנדסת חשמל ופיסיקה יישומית
+END:VEVENT
+BEGIN:VEVENT
+UID:49862@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום א' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T182420Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261101T080000Z
+DTEND:20261101T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49911@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ב' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183313Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261102T080000Z
+DTEND:20261102T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49900@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183612Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261103T100000Z
+DTEND:20261103T120000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49958@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183519Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261104T060000Z
+DTEND:20261104T080000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49863@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום א' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T182420Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261108T080000Z
+DTEND:20261108T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49912@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ב' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183323Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261109T080000Z
+DTEND:20261109T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49901@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183626Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261110T100000Z
+DTEND:20261110T120000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49959@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183519Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261111T060000Z
+DTEND:20261111T080000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49864@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום א' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T182420Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261115T080000Z
+DTEND:20261115T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49913@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ב' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183332Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261116T080000Z
+DTEND:20261116T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49902@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183640Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261117T100000Z
+DTEND:20261117T120000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49960@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183519Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261118T060000Z
+DTEND:20261118T080000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49865@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום א' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T182420Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261122T080000Z
+DTEND:20261122T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49914@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ב' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183343Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261123T080000Z
+DTEND:20261123T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49903@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183805Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261124T100000Z
+DTEND:20261124T120000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49961@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183519Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261125T060000Z
+DTEND:20261125T080000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49866@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום א' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T182420Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261129T080000Z
+DTEND:20261129T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49915@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ב' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183353Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261130T080000Z
+DTEND:20261130T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49904@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183653Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261201T100000Z
+DTEND:20261201T120000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49962@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183519Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261202T060000Z
+DTEND:20261202T080000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:20326@moodle.huji.ac.il/2026-27
+SUMMARY:סקר הבוחן הגדול opens
+DESCRIPTION:נשמח שתענו על הסקר\, כדי להבין את הרגשתכם הכללית לגביו [smile]\
+	n\nהסקר אנונימי\, והתשובות לא משפיעות על הציונים.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261007T202527Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261204T100000Z
+DTEND:20261204T100000Z
+CATEGORIES:83312-מכניקה ויחסות פרטית לתלמידי הנדסה
+END:VEVENT
+BEGIN:VEVENT
+UID:20327@moodle.huji.ac.il/2026-27
+SUMMARY:סקר הבוחן הגדול closes
+DESCRIPTION:נשמח שתענו על הסקר\, כדי להבין את הרגשתכם הכללית לגביו [smile]\
+	n\nהסקר אנונימי\, והתשובות לא משפיעות על הציונים.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261007T202527Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261205T215900Z
+DTEND:20261205T215900Z
+CATEGORIES:83312-מכניקה ויחסות פרטית לתלמידי הנדסה
+END:VEVENT
+BEGIN:VEVENT
+UID:49868@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום א' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T182420Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261213T080000Z
+DTEND:20261213T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49917@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ב' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183412Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261214T080000Z
+DTEND:20261214T100000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49906@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ג' - מרק בל\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183720Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261215T100000Z
+DTEND:20261215T120000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+BEGIN:VEVENT
+UID:49964@moodle.huji.ac.il/2026-27
+SUMMARY:נוכחות בהרצאות
+DESCRIPTION:הרצאה יום ד' - אורי רוזנשטיין\n
+CLASS:PUBLIC
+LAST-MODIFIED:20261010T183519Z
+DTSTAMP:20261018T071330Z
+DTSTART:20261216T060000Z
+DTEND:20261216T080000Z
+CATEGORIES:80153-אלגברה ליניארית לתלמידי הנדסה ומדעים 1
+END:VEVENT
+END:VCALENDAR
